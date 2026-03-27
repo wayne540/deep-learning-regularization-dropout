@@ -36,7 +36,7 @@ Layer dimensions:
 
 ---
 
-## ⚙️ Features Implemented
+##  Features Implemented
 
 ### 1. Baseline Model (No Regularization)
 
